@@ -21,4 +21,4 @@
 ![Flutter](https://img.shields.io/badge/ㅤFlaskㅤ-272727)
 
 
-[![longdeadline's GitHub stats](https://github-readme-stats.vercel.app/api?username=longdeadline)](https://github.com/anuraghazra/github-readme-stats)
+[![longdeadline's GitHub stats](https://github-readme-stats.vercel.app/api?username=longdeadline)]

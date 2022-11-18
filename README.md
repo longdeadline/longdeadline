@@ -19,3 +19,6 @@
 ![Flutter](https://img.shields.io/badge/ㅤJSㅤ-d2ec00)
 ![Flutter](https://img.shields.io/badge/ㅤDjangoㅤ-229c2d)
 ![Flutter](https://img.shields.io/badge/ㅤFlaskㅤ-272727)
+
+
+[![longdeadline's GitHub stats](https://github-readme-stats.vercel.app/api?username=longdeadline)](https://github.com/anuraghazra/github-readme-stats)

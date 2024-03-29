@@ -19,6 +19,3 @@
 ![java_script](https://img.shields.io/badge/ㅤJSㅤ-333300?style=flat-square&logo=javascript)
 ![django](https://img.shields.io/badge/ㅤDjangoㅤ-229c2d?style=flat-square&logo=django)
 ![flask](https://img.shields.io/badge/ㅤFlaskㅤ-272727?style=flat-square&logo=flask)
-
-
-![stats](https://github-readme-stats.vercel.app/api?username=longdeadline)
